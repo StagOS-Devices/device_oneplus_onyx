@@ -22,7 +22,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_l_mr1.mk
 $(call inherit-product, device/oneplus/onyx/device.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/stag/config/common.mk)
 $(call inherit-product, vendor/stag/main.mk)
 
 # Call the proprietary setup
