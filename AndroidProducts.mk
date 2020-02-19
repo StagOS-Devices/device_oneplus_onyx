@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_onyx.mk
+    $(LOCAL_DIR)/stag_onyx.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_onyx-user \
-    potato_onyx-userdebug \
-    potato_onyx-eng
+    stag_onyx-user \
+    stag_onyx-userdebug \
+    stag_onyx-eng
