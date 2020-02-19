@@ -1,11 +1,14 @@
-
 [
   {
-    "repository": "kernel_oneplus_onyx",
-    "target_path": "kernel/oneplus/onyx"
+    "remote": "stagos-devices",
+    "repository": "vendor_oneplus_onyx",
+    "target_path": "vendor/oneplus/onyx",
+    "branch": "sx"
   },
   {
-    "repository": "vendor_oneplus_onyx",
-    "target_path": "vendor/oneplus/onyx"
+    "remote": "stagos-devices",
+    "repository": "kernel_oneplus_onyx",
+    "target_path": "kernel/oneplus/onyx",
+    "branch": "sx"
   }
 ]
